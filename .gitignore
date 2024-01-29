@@ -4,6 +4,8 @@ __pycache__/*
 dist
 build
 thirdparty/**/*
+docker_history.txt
 
 **/outputs/**
 .venv
+.vscode
