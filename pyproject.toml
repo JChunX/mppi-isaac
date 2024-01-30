@@ -22,7 +22,7 @@ pytorch3d = "^0.3.0"
 urdfenvs = "^0.7.1"
 casadi = "3.5.5"
 zerorpc = "^0.6.3"
-forwardkinematics = "^1.1.5"
+forwardkinematics = "1.1.5"
 
 [tool.poetry.group.dev]
 optional = true
